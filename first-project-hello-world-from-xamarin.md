@@ -10,5 +10,7 @@ Go to Build &gt; General and change the version.
 
 ### How to solve target framework issue ?
 
-**Source**: https://forums.xamarin.com/discussion/31147/how-to-change-minimum-android-version
+You must build and target API 23/24/25. You can set your minimum lower through , for instance:![](/assets/targetsdk.png)
+
+**Source**: https://github.com/jamesmontemagno/GeolocatorPlugin/issues/21
 
