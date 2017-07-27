@@ -22,11 +22,15 @@ First of all, you have to set up the project as shown in the image above. Howeve
 
 It is important to have in mind that if using a virtual device, you have to match it with the setup version, otherwise it will crash. Additionally, the set up I´m using is the following.![](/assets/setup.png)
 
-In summary, I will be just using the version 7.1 for setup and virtual device.
-
 ### How to go to device configuration ?
 
 Go to the project and then click in properties. Then, the window will appear.
 
 ![](/assets/properties.png)
+
+In summary, I will be just using the version 7.1 for setup and virtual device.
+
+Also working : 
+
+Compile :  Android 6.0 , Target Android 6.0 , Minimum : 4,2 , AVD GAlaxy 7.1. Using a lower device just doesn´t work. 
 
