@@ -28,3 +28,5 @@ In summary, I will be just using the version 7.1 for setup and virtual device.
 
 Go to the project and then click in properties. Then, the window will appear.
 
+![](/assets/properties.png)
+
