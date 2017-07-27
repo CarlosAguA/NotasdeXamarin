@@ -24,11 +24,7 @@ It is important to have in mind that if using a virtual device, you have to matc
 
 In summary, I will be just using the version 7.1 for setup and virtual device.
 
-### How to go to device configuration ? 
+### How to go to device configuration ?
 
 Go to the project and then click in properties. Then, the window will appear.
-
-![](/assets/targetAndroid.png)
-
-
 
